@@ -1,8 +1,13 @@
-# shadcn/ui Dashboard Project
+# Dashboard Project
 
 A modern, responsive dashboard application built with Next.js 15, React 19, and shadcn/ui components. This project demonstrates a complete admin dashboard with user management, payment tracking, data visualization, and a beautiful dark/light theme support.
 
 ![Project Screenshot](./public/SS.png)
+
+## 🔗 Links
+
+- **Live Demo**: [Coming Soon]
+- **Repository**: [https://github.com/dev0jha/DashBoard-Project](https://github.com/dev0jha/DashBoard-Project)
 
 ## ✨ Features
 
@@ -68,8 +73,8 @@ shadcn/
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd shadcn
+git clone https://github.com/dev0jha/DashBoard-Project.git
+cd DashBoard-Project
 ```
 
 2. Install dependencies:
